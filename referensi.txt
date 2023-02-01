@@ -1,0 +1,5 @@
+https://github.com/mhagglun/Speech-Recognition
+https://github.com/pannous/tensorflow-speech-recognition
+https://github.com/ashwin9999/speech-recognition-CNN
+
+https://github.com/Anustup900/Tensorflow-Speech-Recognition
